@@ -1,0 +1,6 @@
+include ':app:details'
+include ':app:favorites'
+include ':app:commons'
+include ':app'
+
+rootProject.name = "AppCriptomoedas"

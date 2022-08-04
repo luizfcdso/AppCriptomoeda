@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCriptomoedas</string>
+    <string name="dolar_cifrao">$</string>
+    <string name="adicionadas">Adicionadas</string>
+    <string name="moedas">Moedas</string>
+    <string name="moeda_digital">Moeda Digital</string>
+</resources>
